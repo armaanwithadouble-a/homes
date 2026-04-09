@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #535353;
+    padding-bottom: 110px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #535353;
+    padding: 5px;
+    line-height: 0;
+}
+
+nav a {
+    color: orange;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.sep {
+    color: white;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.outer {
+    background-color: #C6C6C6;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+
+.inner {
+    background-color: #EEEEEE;
+    width: 70%;
+    margin: auto;
+}
+
+h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    text-align: center;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.embed {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+}
+
+.embed iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.txt {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+}
+
+.cmd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.cmdSymbol {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding-left: 25px;
+}
+
+.goBack {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+}
+
+.logDate {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-left: 25px;
+    font-size: 10px;
+}
+
+.log {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.sorting {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+@media (max-width: 600px) {
+    .outer {
+        width: 100%;
+        padding: 0;
+    }
+
+    .inner {
+        width: 100%;
+    }
+
+    body {
+        padding-bottom: 0;
+    }
+}
+
+.chat {
+    margin: auto;
+    background-color: #EEEEEE;
+    border: 2px dotted #999;
+    width: 90%;
+}
+
+.chatToggle {
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: auto;
+}
+
+.chatContent {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.chatLine {
+    margin-bottom: 5px;
+    padding-left: 20px;
+}
+
+.chatSpeaker {
+    font-weight: bold;
+}
