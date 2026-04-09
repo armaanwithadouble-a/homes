@@ -343,12 +343,12 @@ const pages = {
     20: {
         img: ["images/20.png"],
         text: "Now THAT's more like it!",
-        cmd: "Hit it!",
+        cmd: "[S] Hit it!",
         date: "2026-04-09"
     },
     21: {
         img: ["images/21.html"],
-        text: "",
+        text: "I'M SLAYING!!!",
         cmd: "==>",
         date: "2026-04-09"
     },
