@@ -540,7 +540,7 @@ const pages = {
     },
     53: {
         img: ["images/53.png"],
-        text: "It's almost like this webcomic is being made on a set that was directly ripped from a project on that date and has remained unchanged every since.\n\nHmm...",
+        text: "It's almost like this webcomic is being made on a set that was directly ripped from a project on that date and has remained unchanged ever since.\n\nHmm...",
         cmd: "==>",
         date: "2026-04-12"
     },
