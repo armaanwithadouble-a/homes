@@ -348,15 +348,357 @@ const pages = {
     },
     21: {
         img: ["images/21.html"],
-        text: "I'M SLAYING!!!",
+        text: "I'M SLAYINGGGGGGGGGGG!!!",
         cmd: "==>",
         date: "2026-04-09"
     },
     22: {
         img: ["images/8.png"],
         text: "What's next? KEEP MESSAGING ME!!!",
+        cmd: "@notzuperzoha asks",
+        date: "2026-04-09"
+    },
+    23: {
+        img: ["images/23.png"],
+        text: "",
         cmd: "==>",
         date: "2026-04-09"
+    },
+    24: {
+        img: ["images/24.png"],
+        text: "WHAT! WHAT THE HELL IS WRONG WITH YOU! I'M IN SHOCK AT HOW YOU COULD SO CASUALLY SUGGEST SUCH A THING!!!\n\nI WOULD NEVER EAT MY GRANDMA!!!",
+        cmd: "==>",
+        date: "2026-04-09"
+    },
+    25: {
+        img: ["images/25.png"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-09"
+    },
+    26: {
+        img: ["images/8.png"],
+        text: "Ohhhhhhh. \n\nThat makes so much more sense. It's truly a gift that we all get to live in a world where punctuation exists. \n\nAnyways, I don't have a grandma. No can do, buckaroo!",
+        cmd: "However... they also sent fanart!",
+        date: "2026-04-09"
+    },
+    27: {
+        img: ["images/27.png"],
+        text: "WOW. \n\nTHIS IS JUST. WOW. SO WOW. \n\nI NEED TO HANG THIS UP!",
+        cmd: "[S] Hang it on the wall.",
+        date: "2026-04-09"
+    },
+    28: {
+        img: ["images/28.html"],
+        text: "Just a bit to the left aaaaaand...\n\nOh.",
+        cmd: "@ghostkyle95 asks",
+        date: "2026-04-10"
+    },
+    29: {
+        img: ["images/29.png"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-10"
+    },
+    30: {
+        img: ["images/30.gif"],
+        text: "AAAAAAAAHHH!!!!!!!! \n\nWHAT THE HELL IS THAT!!!!!!!",
+        cmd: "==>",
+        date: "2026-04-10"
+    },
+    31: {
+        img: ["images/31.gif"],
+        text: "I GET THAT YOU MIGHT BE A LITTLE BIT MAD AT ME FOR KILLING YOU LAST TIME BUT THIS IS TOO MUCH!!!\n\nAAAAAAHHHHH EW EW EW EW EW AHHHHHHHHHHHHHHHH KILL IT KILL IT KILL IT KILL IT KILL IT!!!!!!!!!",
+        cmd: "[S] Kill it.",
+        date: "2026-04-10"
+    },
+    32: {
+        img: ["images/32.html"],
+        text: "",
+        cmd: "He also sent fanart.",
+        date: "2026-04-11"
+    },
+    33: {
+        img: ["images/33.png"],
+        text: "Okay.",
+        cmd: "Move on.",
+        date: "2026-04-11"
+    },
+    34: {
+        img: ["images/8.png"],
+        text: "Next up, it looks like both @mr.slime8417 and @slimsomething had the same request! Let's see what it is!",
+        cmd: "[S] Take a look!",
+        date: "2026-04-11"
+    },
+    35: {
+        img: ["images/35_1.png", "images/35_2.png", "images/35_3.html"],
+        text: "I appreciate your display name, Slim! It warms my heart to see that I am appreciated. \n\nHowever, that's just not going to cut it. I'm sorry, it's just the way it is. It pains me so much to do this to fans of mine. \n\nI'm rolling in pain right now. Owwww it hurrrrts. \n\nOwww. ",
+        cmd: "@c_ode asks",
+        date: "2026-04-11"
+    },
+    36: {
+        img: ["images/36.png"],
+        text: "Awesome profile picture! ",
+        cmd: "Ready...",
+        date: "2026-04-11"
+    },
+    37: {
+        img: ["images/37.gif"],
+        text: "So this is the gun, huh? \n\nSo do I just...?",
+        cmd: "Aim...",
+        date: "2026-04-11"
+    },
+    38: {
+        img: ["images/38.gif"],
+        text: "Errrrrmmmm........",
+        cmd: "[S] Fire!",
+        date: "2026-04-11"
+    },
+    39: {
+        img: ["images/39.html"],
+        text: "",
+        cmd: "[S] Flip out.",
+        date: "2026-04-11"
+    },
+    40: {
+        img: ["images/40.html"],
+        text: "AAAAAAAAAHHHHHH!!!!!!!!!!!!!!",
+        cmd: "Go to the sink.",
+        date: "2026-04-12"
+    },
+    41: {
+        img: ["images/41.gif"],
+        text: "AAAGGGGHAHAHAGGGHFHFHFGGFGFGFHWHWGWGQ!!!!!!!!!!!!!!!!!!!!!",
+        cmd: "A little bit later.",
+        date: "2026-04-12"
+    },
+    42: {
+        img: ["images/42.png"],
+        text: "Alright, I'm back from washing my eyes! They still sting a little bit, but let's see if I can hit this shot.",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    43: {
+        img: ["images/43.png"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    44: {
+        img: ["images/44.gif"],
+        text: "Hmmm.........",
+        cmd: "[S] Fire! ...Again.",
+        date: "2026-04-12"
+    },
+    45: {
+        img: ["images/45.html"],
+        text: "",
+        cmd: "@veryorvanish asks",
+        date: "2026-04-12"
+    },
+    46: {
+        img: ["images/46.png"],
+        text: "A challenge!",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    47: {
+        img: ["images/47.png"],
+        text: "Looks like Speed Run 4 but upside down. \n\nLet me see what I can do. ",
+        cmd: "[S] FUCKING WIN.",
+        date: "2026-04-12"
+    },
+    48: {
+        img: ["images/48.html"],
+        text: "I'M FUCKING WINNING!",
+        cmd: "@panned_noob asks",
+        date: "2026-04-12"
+    },
+    49: {
+        img: ["images/49.png"],
+        text: "",
+        cmd: "Hug.",
+        date: "2026-04-12"
+    },
+    50: {
+        img: ["images/8.png"],
+        text: "Aww, I'm sorry to hear that.\n\nEven if you feel a little down now, better days are coming soon. All it takes is a little patience!\n\nHowever, we live on different planes of existence, so I'm afraid I can't hug you. \n\nSorry!",
+        cmd: "@john_s1gnalis asks",
+        date: "2026-04-12"
+    },
+    51: {
+        img: ["images/51.png"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    52: {
+        img: ["images/52.png"],
+        text: "You look at the calendar and-\n\nHang on.\n\nThis calendar is from October 29, 2022!",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    53: {
+        img: ["images/53.png"],
+        text: "It's almost like this webcomic is being made on a set that was directly ripped from a project on that date and has remained unchanged every since.\n\nHmm...",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    54: {
+        img: ["images/8.png"],
+        text: "But it doesn't matter. Of course you know what the real date is. \n\nIt's the 13th of April. ",
+        cmd: "@flamedelf52 asks",
+        date: "2026-04-12"
+    },
+    55: {
+        img: ["images/55.png"],
+        text: "That's kind of mean! But alright.",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    56: {
+        img: ["images/56.html"],
+        text: "Alright, so I'll just-",
+        cmd: "@luckybell15 asks",
+        date: "2026-04-12"
+    },
+    57: {
+        img: ["images/57.png"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    58: {
+        img: ["images/58.png"],
+        text: "Oh.",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    59: {
+        img: ["images/59.gif"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-12"
+    },
+    60: {
+        img: ["images/60.png"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    61: {
+        img: ["images/61.png"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    62: {
+        img: ["images/62.png"],
+        text: "",
+        cmd: "[S] Jump.",
+        date: "2026-04-13"
+    },
+    63: {
+        img: ["images/63.html"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    64: {
+        img: ["images/64.gif"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    65: {
+        img: ["images/65.gif"],
+        text: "",
+        cmd: "Get up.",
+        date: "2026-04-13"
+    },
+    66: {
+        img: ["images/66.gif"],
+        text: "",
+        cmd: "Observe.",
+        date: "2026-04-13"
+    },
+    67: {
+        img: ["images/67.png"],
+        text: "It looks a little bland here.",
+        cmd: "@mr.slime8417 asks",
+        date: "2026-04-13"
+    },
+    68: {
+        img: ["images/68.png"],
+        text: "Wow, what a coincidental suggestion!\n\nI am completely unaware of any 'original character' you have of the same name. I am simply going to assume that you were referring to the literal sky.",
+        cmd: "Add sky.",
+        date: "2026-04-13"
+    },
+    69: {
+        img: ["images/69.gif"],
+        text: "That wasn't too hard.",
+        cmd: "Look at the sky.",
+        date: "2026-04-13"
+    },
+    70: {
+        img: ["images/70.png"],
+        text: "You look at the sky and...\n\n...Hang on.",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    71: {
+        img: ["images/71.png"],
+        text: "Is that a meteor?",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    72: {
+        img: ["images/70.png"],
+        text: "No. It's not.\n\nWebcomics with that trope suck and are for stupid babies who poop hard in their little diapers.",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    73: {
+        img: ["images/71.png"],
+        text: "But it won't hurt to look anyways.",
+        cmd: "[S] Look.",
+        date: "2026-04-13"
+    },
+    74: {
+        img: ["images/74.mp4"],
+        text: "The path is empty. Wind skims the voids keeping trees apart, as if grazing the hollow of a cut reed, or say, an emptied window frame. A familiar note is produced. It's the one Desolation plays to keep its instrument in tune.\n\nIt is just another thirteenth of April, and as with the arbitrary count of all twelve preceding it, something feels missing.",
+        cmd: "@slimsomething asks",
+        date: "2026-04-13"
+    },
+    75: {
+        img: ["images/75.png"],
+        text: "",
+        cmd: "[S] Moo.",
+        date: "2026-04-13"
+    },
+    76: {
+        img: ["images/76.html"],
+        text: "",
+        cmd: "END OF ACT 1",
+        date: "2026-04-13"
+    },
+    77: {
+        img: ["images/77.gif"],
+        text: "",
+        cmd: "START OF INTERMISSION 1",
+        date: "2026-04-13"
+    },
+    78: {
+        img: ["images/78.gif"],
+        text: "",
+        cmd: "==>",
+        date: "2026-04-13"
+    },
+    79: {
+        img: ["images/79.png"],
+        text: "Q&A.\n\nYou ask. I answer!",
+        cmd: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        date: "2026-04-13"
     }
 };
 
